@@ -20,10 +20,8 @@ sa0331_0.csv is the sparse depth and it is measured by Velodyne-16 (See visualiz
 
 #### Input 
 
-<div>
-<img width="450" src="./input/img.png">
-<img width="450" src="visualized_velodyne-16.png">
-</div>
+![inputRGB](./input/img.png)
+![inputsparsedepth](visualized_velodyne-16.png)
 
 #### Result 
 
