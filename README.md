@@ -18,6 +18,17 @@ sa0331_0.csv is the sparse depth and it is measured by Velodyne-16 (See visualiz
 
 <pre><code>$ python3 main.py</code></pre>
 
+#### Input 
+
+<div>
+<img width="200" src="./input/img.png">
+<img width="200" src="visualized_velodyne-16.png">
+</div>
+
+#### Result 
+
+![ResultImg](result.png)
+
 ### Consideration
 
 * If you run this code by your own sparse depth and RGB image, then revise **sparse_depth** and **img** on main.py
